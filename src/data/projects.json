@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Gesture Gaze",
+        "imageSrc": "projects/gesture.png",
+        "description": "A real-time sign language recognition tool for hearing impaired people.",
+        "skills": ["Python", "OpenCV", "RandomForest"],
+        "source": "https://github.com/SarmithaVD/GestureGaze"
+    },
+    {
+        "title": "Spoon and Fork",
+        "imageSrc": "projects/project.png",
+        "description": "Food blog website where users can create their page and add their favorite recipes.",
+        "skills": ["PHP", "CSS", "JavaScript"],
+        "source": "https://github.com/srinidhicr/Spoon-And-Fork"
+    },
+    {
+        "title": "Market Pulse",
+        "imageSrc": "projects/stock.png",
+        "description": "A user-friendly interface explore historical data, compare stocks, visualize financials, and predict prices.",
+        "skills": ["Python", "Pandas", "yfinance"],
+        "source": "https://github.com/Kiruthika-V-G/stock-price-prediction"
+    },
+    {
+        "title": "Image encryption and decryption",
+        "imageSrc": "projects/encrypt.png",
+        "description": "Encryption and Decryption of images using permutation based approach and 3-4 secret sharing.",
+        "skills": ["Python", "Numpy", "PIL"],
+        "source": "https://github.com/Kiruthika-V-G/Image-encryption-and-decryption"
+    },
+    {
+        "title": "Image Compression",
+        "imageSrc": "projects/comp.png",
+        "description": "This package reduces the size of images while preserving their visual quality using quadtree.",
+        "skills": ["Python", "Numpy", "PIL"],
+        "source": "https://github.com/Kiruthika-V-G/Image-Compression-using-quad-tree"
+    },
+    {
+        "title": "LIFO Job Re-scheduler",
+        "imageSrc": "projects/research.png",
+        "description": "Implemented research paper for LIFO-based job rescheduling using dynamic programming,enhancing scheduling efficiency.",
+        "skills": ["DP", "C++"],
+        "source": "https://github.com/srinidhicr/LIFO-Job-Scheduler"
+    }
+
+]

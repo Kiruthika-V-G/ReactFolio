@@ -1,0 +1,21 @@
+/* styling for the entire website..apply styling to every single element in our web page and to target every element in our web page use the asterisk*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit",Arial, Helvetica, sans-serif;
+  
+}
+
+body{
+  cursor: url("assets/about/cursor.png"),auto;
+}
+
+a, a:hover, a:active {
+  cursor: url("assets/about/cursor.png"), auto;
+}
+
+html{
+  scroll-behavior: smooth;
+}
