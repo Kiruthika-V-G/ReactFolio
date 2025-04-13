@@ -28,11 +28,12 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/server.png")} alt="cursor" className={styles.icons}/>
                         <div className={styles.aboutItemText}>
-                            <h3>Back-end Novice</h3>
-                            <p>Presently immersed in backend development, honing skills with Express.js, PostgreSQL, and MySQL for robust server-side solutions.</p>
+                            <h3>MERN Stack Novice</h3>
+                            <p>Presently immersed in full stack development, honing skills with Tech stack for robust client-server applications.</p>
                         </div>
                     </li>
 
+{/*
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/ml.png")} alt="cursor" className={styles.icons}/>
                         <div className={styles.aboutItemText}>
@@ -40,7 +41,7 @@ export const About = () => {
                             <p>Diving deep into the world of machine learning, crafting algorithms that unravel patterns and insights from data.</p>
                         </div>
                     </li>
-
+*/}
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/feather.png")} alt="cursor" className={styles.icons}/>
                         <div className={styles.aboutItemText}>

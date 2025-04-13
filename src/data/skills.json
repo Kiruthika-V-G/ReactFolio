@@ -32,12 +32,12 @@
         "imageSrc": "skills/css.png"
     },
     {
-        "title" : "NumPy",
-        "imageSrc" : "skills/numpy.png"
+        "title" : "MongoDB",
+        "imageSrc" : "skills/mongodb.png"
     },
     {
-        "title" : "Pandas",
-        "imageSrc" : "skills/pandas.png"
+        "title" : "Node.js",
+        "imageSrc" : "skills/nodejs.png"
     }
 
 ]
